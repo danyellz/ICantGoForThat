@@ -14,6 +14,7 @@
 		ED72AA351EB311A400382BE3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ED72AA331EB311A400382BE3 /* LaunchScreen.storyboard */; };
 		ED72AA401EB311A400382BE3 /* ICantGoForThatTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED72AA3F1EB311A400382BE3 /* ICantGoForThatTests.swift */; };
 		ED72AA4B1EB311A400382BE3 /* ICantGoForThatUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED72AA4A1EB311A400382BE3 /* ICantGoForThatUITests.swift */; };
+		ED72AA591EB311D000382BE3 /* CantGoForThat.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = ED72AA581EB311D000382BE3 /* CantGoForThat.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		ED72AA461EB311A400382BE3 /* ICantGoForThatUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ICantGoForThatUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		ED72AA4A1EB311A400382BE3 /* ICantGoForThatUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ICantGoForThatUITests.swift; sourceTree = "<group>"; };
 		ED72AA4C1EB311A400382BE3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		ED72AA581EB311D000382BE3 /* CantGoForThat.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = CantGoForThat.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 		ED72AA291EB311A400382BE3 /* ICantGoForThat */ = {
 			isa = PBXGroup;
 			children = (
+				ED72AA581EB311D000382BE3 /* CantGoForThat.mp3 */,
 				ED72AA2A1EB311A400382BE3 /* AppDelegate.swift */,
 				ED72AA2C1EB311A400382BE3 /* ViewController.swift */,
 				ED72AA2E1EB311A400382BE3 /* Main.storyboard */,
@@ -233,6 +236,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				ED72AA351EB311A400382BE3 /* LaunchScreen.storyboard in Resources */,
+				ED72AA591EB311D000382BE3 /* CantGoForThat.mp3 in Resources */,
 				ED72AA321EB311A400382BE3 /* Assets.xcassets in Resources */,
 				ED72AA301EB311A400382BE3 /* Main.storyboard in Resources */,
 			);
